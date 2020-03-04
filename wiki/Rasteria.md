@@ -16,7 +16,7 @@
 >
 > -- The [***Orden-Far***](Orden-Far)
 
-![](https://raw.githubusercontent.com/lel-rc/Ornia/master/Rasteria.png)
+![](https://raw.githubusercontent.com/lel-rc/Ornia-Wiki/master/assets/Rasteria.png)
 
 **Rasteria** (from Elvish *rastri,* lit. "death") is one of the traditional 53 countries of Ornia. It consists of a large peninsula on the east side of the [Azjeian continent](Azjeia), bounded by the Darivian mountains. It is often given the nickname "The Forgotten Kingdom" due to its relative isolation and extreme climate.
 
