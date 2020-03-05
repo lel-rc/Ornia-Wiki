@@ -11,7 +11,7 @@ This is a chronological timeline of historical events that occurred in Ornia, fr
 - 807 AE: Hainan II conquers the province of Erjadon, uniting [Chamros](Chamros) and founding the [Second Chamric Empire](Second Chamric Empire).
 - 1243 AE: The Vendron Wars between the Chamric and Karzeilan empires.
 - 1300 AE: Chamric victory ends the Vendron Wars.
-- 1347 AE: The Great Drought begins in [Ejela](Ejelan Isles), displacing nearly 50,000 elves.
+- 1347 AE: The Great Drought begins in [Ejela](Ejela Isles), displacing nearly 50,000 elves.
 - 1567 AE: [Afeshi Mercantile Union Corporation](Mercantile Union Corporation) is founded.
 - 1640 AE: The Proclamation of 1640 puts into effect state discrimination of the Kukurib, beginning the Great Burning.
 - 1721 AE: 17 duchies break away from the Chamric Empire, founding the [Katabrine Dominion](Katabrine Dominion).
