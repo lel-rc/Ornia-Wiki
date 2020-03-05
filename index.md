@@ -4,7 +4,7 @@
 
 This is a repository of all the writings I've collected over the years of my fictional world Ornia, which I've been developing since 2013. It's also been the setting of several D&D campaigns, and many, many daydreams. This wiki aims to be a completely comprehensive resource for the world and as a place to dump all the stuff I've written.
 
-![](https://raw.githubusercontent.com/lel-rc/Ornia-Wiki/master/assets/Ornia%20huge.png)
+[![](https://raw.githubusercontent.com/lel-rc/Ornia-Wiki/master/assets/resized/Ornia%20huge_RESIZED.jpg)](https://raw.githubusercontent.com/lel-rc/Ornia-Wiki/master/assets/Ornia%20huge.png)
 
 ## Current campaign: The Melody out of Darkness
 
