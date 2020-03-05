@@ -1,4 +1,4 @@
-# Organizations
+# List of organizations
 
 Ornia is home to many **organizations** that commit themselves to various causes; some noble, some evil.
 
