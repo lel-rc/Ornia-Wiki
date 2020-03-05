@@ -1,6 +1,6 @@
 # List of states
 
-A **state** is any polity that sovereignty over land in as a centralized organization - in other words, a government. In this wiki we distinct between states and [countries](Countries), as not all countries in Ornia have a state. Subdivisions are not considered states - states are independent.
+A **state** is any polity that sovereignty over land in as a centralized organization - in other words, a government. In this wiki we distinct between states and [countries](List of countries), as not all countries in Ornia have a state. Subdivisions are not considered states - states are independent.
 
 * Ejelan Federacy
 * Fenian Empire

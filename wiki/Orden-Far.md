@@ -1,6 +1,6 @@
 # Orden-Far
 
-The **_Orden-Far_**, (lit. "The Prince's Journey") is an epic poem and important religious text written in High  Elvish. It is the oldest known surviving piece of writing in history. It follows the prince Varssanian from his banishment from his father's chiefdom to eventual enlightenment and ascension to godhood. The poem is composed of over 200,000 verses divided into 328 cantos.
+The **_Orden-Far_**, (lit. "The Prince's Journey") is an epic poem and important religious text written in High Elvish. It is the oldest known surviving piece of writing in history. It follows the prince Varssanian from his banishment from his father's chiefdom to eventual enlightenment and ascension to godhood. The poem is composed of over 200,000 verses divided into 328 cantos.
 
 ## Synopsis
 
