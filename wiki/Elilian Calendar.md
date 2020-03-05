@@ -1,6 +1,6 @@
 # Elilian Calendar 
 
-The **Elilian Calendar** is the global calendar adopted by the majority of countries in Ornia. Originally designed by the famed scientist Elilianis aven Kirya for the Karzeilan Empire, it was widely adopted around the year AE 100. The calendar used the coronation of the first Karzeilan emperor Arekan I of House nari-Qudon as the beginning of its calendar era: BA stands for "Before Ascension" while AE stands for "After Enlightenment". The calendar splits the 390-day-long Ornian year into thirteen 30-day months.
+The **Elilian Calendar** is the global calendar adopted by the majority of countries in Ornia. Originally designed by the famed half-elven scientist Elilianis aven Kirya for the Karzeilan Empire, it was widely adopted around the year AE 100. The calendar used the coronation of the first Karzeilan emperor Arekan I of House nari-Qudon as the beginning of its calendar era: BA stands for "Before Ascension" while AE stands for "After Enlightenment". The calendar splits the 390-day-long Ornian year into thirteen 30-day months.
 
 The naming for months is as follows:
 
