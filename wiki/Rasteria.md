@@ -14,7 +14,7 @@
 >
 > *weep, for it has come."*
 >
-> -- The [***Orden-Far***](Orden-Far)
+> -- The [*Orden-Far*](Orden-Far)
 
 [![](https://raw.githubusercontent.com/lel-rc/Ornia-Wiki/master/assets/resized/Rasteria_RESIZED.jpg)](https://raw.githubusercontent.com/lel-rc/Ornia-Wiki/master/assets/Rasteria.png)
 
