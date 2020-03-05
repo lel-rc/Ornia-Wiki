@@ -1,6 +1,6 @@
 # Children of the Apocalypse
 
-![](https://raw.githubusercontent.com/lel-rc/Ornia-Wiki/master/assets/childrenoftheapocalypse.png)
+[![](https://raw.githubusercontent.com/lel-rc/Ornia-Wiki/master/assets/resized/childrenoftheapocalypse_RESIZED.jpg)](https://raw.githubusercontent.com/lel-rc/Ornia-Wiki/master/assets/childrenoftheapocalypse.png)
 
 The **Children of the Apocalypse** were an ancient secret society and doomsday cult dedicated to destroying the entirety of the universe. The organization transcended national borders and religious affiliation as the group used the eschatology of many different cultures in their ambition to bring about the end times.
 
