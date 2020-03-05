@@ -21,5 +21,4 @@ This is a chronological timeline of historical events that occurred in Ornia, fr
 - 1921 AE: The Katabrine Dominion is dissolved.
 - 1978 AE: The Treaty of Zephyria is signed, bringing end to the First Great War. Under its stipulations, the Torathic Communion is dissolved.
 - 2002 AE: The Chamric Civil War ends with a Republican victory and the Chamric Empire is dissolved.
-- 
 
