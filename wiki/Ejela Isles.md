@@ -8,7 +8,7 @@ Beginning in the mid-1500s, Ejela suffered an extreme drought, killing much of t
 
 ## Geography
 
-![](https://raw.githubusercontent.com/lel-rc/Ornia-Wiki/master/assets/EjelaMap(Towns).png)
+<img src="https://raw.githubusercontent.com/lel-rc/Ornia-Wiki/master/assets/EjelaMap(Towns).png" style="zoom: 33%;" />
 
 The Isles consist of a series of eight main islands. 
 
