@@ -1,6 +1,6 @@
 # Timeline
 
-This is a chronological timeline of historical events that occurred in Ornia, from past to present.
+This is a chronological timeline of historical events that occurred in Ornia, from past to present. All dates use the [Elilian Calendar](Elilian Calendar).
 
 - c. 1,500,000 BA: Emergence of modern elves and dwarves.
 - c. 1,000,000 BA: Emergence of modern humans.
