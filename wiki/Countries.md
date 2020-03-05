@@ -1,0 +1,55 @@
+# Countries
+
+The world of Ornia is split up into 51 traditional countries. In this usage the word *country* does not denote a sovereign [state](States), but rather a region of the world that have enough similarities to be considered a nation. Some countries may not have a state structure at all while another may fall entirely into one.
+
+- Afesh
+- Ameniar
+- Aneryx
+- Asait
+- Awspea
+- Blume
+- Cartizia
+- [Chamros](Chamros)
+- Coaiso
+- Denozine
+- Edrwen
+- [Ejela Isles](Ejela Isles)
+- Emniak
+- Epbrium
+- Esella
+- Farzia
+- Fegero
+- Fentoz
+- Fignoli
+- Grodze
+- Honia
+- Ibllua
+- Ievania
+- Ihen
+- Karzeils
+- Kasia
+- Kontalia
+- Lagos
+- Lentileza
+- Miskila
+- Olaria
+- Opsain
+- Oswaria
+- Pezzon
+- Quadrog
+- Quazsz
+- [Rasteria](Rasteria)
+- Rejunico
+- Retania
+- Seelaia
+- Sential, East
+- Sential, West
+- Sesia
+- Soji
+- Suiacor
+- Therst
+- Udril
+- Utril
+- Wazzer
+- Wenia
+- Zurhiel
