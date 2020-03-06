@@ -14,11 +14,11 @@
 >
 > *weep, for it has come."*
 >
-> -- The [***Orden-Far***](Orden-Far)
+> -- The [*Orden-Far*](Orden-Far)
 
 [![](https://raw.githubusercontent.com/lel-rc/Ornia-Wiki/master/assets/resized/Rasteria_RESIZED.jpg)](https://raw.githubusercontent.com/lel-rc/Ornia-Wiki/master/assets/Rasteria.png)
 
-**Rasteria** (from Elvish *rastri,* lit. "death") is one of the traditional 53 countries of Ornia. It consists of a large peninsula on the east side of the [Azjeian continent](Azjeia), bounded by the Darivian mountains. It is often given the nickname "The Forgotten Kingdom" due to its relative isolation and extreme climate.
+**Rasteria** (from Elvish *rastri,* lit. "death") is one of the traditional 51 countries of Ornia. It consists of a large peninsula on the east side of the [Azjeian continent](Azjeia), bounded by the Darivian mountains. It is often given the nickname "The Forgotten Kingdom" due to its relative isolation and extreme climate.
 
 The Rasterian peninsula has been inhabited by sentient beings for well over 250,000 years. Its first mention in literature is in the ancient epic the [*Orden-Far*](Orden-Far.md), wherein a clan of dwarves are said to live in the mountains.
 
