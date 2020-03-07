@@ -24,7 +24,41 @@ The Rasterian peninsula has been inhabited by sentient beings for well over 250,
 
 ## Geography 
 
-Rasteria is located in Eastern Azjeia. It is separated from the rest of the continent by the Darivian mountain range. Its largest city is [Haxian](Haxian).
+Rasteria is located in Eastern Azjeia. It is separated from the rest of the continent by the Darivian mountain range. The Darivians are notoriously impassable due to their height - the 50-km long Kolanoi Pass between Rasteria and Rejunico is only open a few times a year. 
+
+The western half of the country is composed of exposed volcanic rock. Cliffs, valleys, and hills dominate the topography. The region is rich in minerals and precious metals like iron, copper, gold, and electrum.Agricultural activity in this area is uncommon, with communities mainly subsisting off mining and trade. Temperate rainforests cover this region. 
+
+Flat and arable grasslands are common in the east of the peninsula, where the bulk of the population resides. Due to its flatness this region is severely impacted by storms. Flash floods are common.
+
+Rasteria's coasts are quite shallow with waters barely reaching neck-height for hundreds of kilometres from land. This makes the country uniquely unfriendly to large ships and boats. The only area of the country whose coasts are suitable for trade is the city of Haxian, which sits on the south side of the Banah Strait between Rasteria and Therst. As a result, the city gets much of the large-scale trading going into Rasteria.
+
+### Climate
+
+Rasteria has an extremely stormy climate due in part from cold air from the Darivians meeting warm air from the Great Ocean. Most days are rainy, with only a few days being sunny. As a result, landslides and flash-floods are common. 
+
+Temperatures are temperate year-round, with snowfall being uncommon outside of mountainous regions. The year can be split into two seasons: wet season in the latter half and dry season in the former. Dry season is the busiest time of year as most of the trade and agricultural activity is done well before wet season. Despite the name, dry season still gets quite a lot of rainfall; storms are not as intense, however.
+
+Hurricanes are famously common in Rasteria. The country gets around a dozen hurricanes every year. These storms tend to be unpredictable and quite destructive. Housing and architecture in the country is built to withstand these storms. Most buildings are made of solid stone with roofs made of naturally water-resistant bendtree wood. 
+
+### Population and demographics
+
+Rasteria is sparsely populated. Most populated areas of the peninsula sit in the east. Haxian is the largest city in Rasteria, followed by Misehu. Villages and towns dot the country with most falling under the charge of a feudal lord. These villages are mainly agricultural towns subisting off simple grains. Mining communities are common in the west and the south.
+
+Of all sentient races in the country Humans are the most common, followed by Halflings, Dwarves, then Elves. Humans and Halflings mainly live in the major cities and towns. Halflings in particular make up most of the fishing communities in the coast. Dwarves have large mining communities in the mountains, including Arad-dur and Buldan. The country's Elvish population are known as the [Carandai](Carandai), concentrated in the forests and mountains of the west. Elvish visitors from abroad are known to take pilgrimages to the mountains of Rasteria, which are considered holy as the final resting place of mythical Elvish prince [Varssanian](Orden-Far).
+
+#### List of communities
+
+- Arad-dur
+- Buldan
+- Fellhammer
+- [Haxian](Haxian)
+- Janai
+- Kingfisher Heights
+- Misehu
+- Poran
+- Shallowwater
+- Teranda
+- Windy Rapids
 
 ## Culture
 
