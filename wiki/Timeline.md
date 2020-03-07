@@ -6,7 +6,7 @@ This is a chronological timeline of historical events that occurred in Ornia, fr
 - c. 1,000,000 BA: Emergence of modern humans.
 - c. 900,000 BA: Jathar, the world's oldest city, is founded by dwarves in Sesia.
 - c. 850,000 BA: The epic poem [*Orden-Far*](Orden-Far) is written in High Elvish.
-- c. 4500 BA: The Columns of All Things are build by unknown persons in northwestern Chamros.
+- c. 45,000 BA: The Columns of All Things are built by unknown persons in northwestern Chamros.
 - 235 AE: Twelve Torathic sects take part in the Third Council of Reiya, uniting and creating the [Torathic Communion](Torathic Communion).
 - 807 AE: Hainan II conquers the province of Erjadon, uniting [Chamros](Chamros) and founding the [Second Chamric Empire](Second Chamric Empire).
 - 1243 AE: The Vendron Wars between the Chamric and Karzeilan empires.

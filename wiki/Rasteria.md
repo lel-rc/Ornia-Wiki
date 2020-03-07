@@ -26,7 +26,7 @@ The Rasterian peninsula has been inhabited by sentient beings for well over 250,
 
 Rasteria is located in Eastern Azjeia. It is separated from the rest of the continent by the Darivian mountain range. The Darivians are notoriously impassable due to their height - the 50-km long Kolanoi Pass between Rasteria and Rejunico is only open a few times a year. 
 
-The western half of the country is composed of exposed volcanic rock. Cliffs, valleys, and hills dominate the topography. The region is rich in minerals and precious metals like iron, copper, gold, and electrum.Agricultural activity in this area is uncommon, with communities mainly subsisting off mining and trade. Temperate rainforests cover this region. 
+The western half of the country is composed of exposed volcanic rock. Cliffs, valleys, and hills dominate the topography. The region is rich in minerals and precious metals like iron, copper, gold, and electrum. Agricultural activity in this area is uncommon, with communities mainly subsisting off mining and trade. Temperate rainforests cover this region. 
 
 Flat and arable grasslands are common in the east of the peninsula, where the bulk of the population resides. Due to its flatness this region is severely impacted by storms. Flash floods are common.
 
