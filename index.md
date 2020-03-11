@@ -9,7 +9,7 @@ This is a repository of all the writings I've collected over the years of my fic
 
 ## Current campaign: The Melody out of Darkness
 
-***The Melody out of Darkness*** is set in [Rasteria](Rasteria), on the eastern edge of the [Azjeian continent](Azjeia).
+[***The Melody out of Darkness***](The Melody out of Darkness) is set in [Rasteria](Rasteria), on the eastern edge of the [Azjeian continent](Azjeia).
 
 ## Former campaigns
 
