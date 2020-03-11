@@ -42,7 +42,7 @@ Hurricanes are famously common in Rasteria. The country gets around a dozen hurr
 
 ## Population and demographics
 
-Rasteria is sparsely populated. Most populated areas of the peninsula sit in the east. Haxian is the largest city in Rasteria, followed by Misehu. Villages and towns dot the country with most falling under the charge of a feudal lord. These villages are mainly agricultural towns subisting off simple grains. Mining communities are common in the west and the south.
+Rasteria is sparsely populated. Most populated areas of the peninsula sit in the east. Haxian is the largest city in Rasteria, followed by Janai. Villages and towns dot the country with most falling under the charge of a feudal lord. These villages are mainly agricultural towns subisting off simple grains. Mining communities are common in the west and the south.
 
 Of all sentient races in the country Humans are the most common, followed by Halflings, Dwarves, then Elves. Humans and Halflings mainly live in the major cities and towns. Halflings in particular make up most of the fishing communities in the coast. Dwarves have large mining communities in the mountains, including Arad-dur and Buldan. The country's Elvish population are known as the [Carandai](Carandai), concentrated in the forests and mountains of the west. Elvish visitors from abroad are known to take pilgrimages to the mountains of Rasteria, which are considered holy as the final resting place of mythical Elvish prince [Varssanian](Orden-Far).
 
