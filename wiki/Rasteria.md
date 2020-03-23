@@ -49,6 +49,7 @@ Of all sentient races in the country Humans are the most common, followed by Hal
 ### List of communities
 
 - Arad-dur
+- [Barony of Redarin](Barony of Redarin)
 - Buldan
 - Fellhammer
 - [Haxian](Haxian)

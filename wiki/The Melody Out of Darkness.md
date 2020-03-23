@@ -12,4 +12,5 @@ Name|Race|Class
 Azrael|Aasimar|Rogue
 Bubba|Bugbear|Cleric
 Oliver McDermot|Human|Wizard
+Yugo Tahel|Tortle|Barbarian
 
