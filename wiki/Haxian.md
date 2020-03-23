@@ -1,5 +1,6 @@
 # Haxian
 
+[![](https://raw.githubusercontent.com/lel-rc/Ornia-Wiki/master/assets/resized/haxian_RESIZED.jpg)](https://raw.githubusercontent.com/lel-rc/Ornia-Wiki/master/assets/haxian.png)
 
 **Haxian**, officially the **Royal State of Haxian**, was a city-state and kingdom located on the northern tip of [Rasteria](Rasteria). It was located across the Banah Strait from the island of Therst. It was the largest and most important city on the peninsula. 
 
