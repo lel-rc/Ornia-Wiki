@@ -1,0 +1,3 @@
+# Cassius Severin
+
+**The Lord Protector Cassius I of House Severin** was the Chief of the City Guard in [Haxian](Haxian). He was a 35-year-old 6'4" tall Human male with dark brown hair and beard, pale skin, and a prominent jawline. Due to the [King](Naravan)'s absentee leadership, he was often considered the de-facto mayor of the city. He was the owner of [Severin Manor](Severin Manor), a large mansion in the city.

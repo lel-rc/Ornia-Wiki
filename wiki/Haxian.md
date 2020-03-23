@@ -8,3 +8,10 @@ As the Banah Strait saw most if not all the traffic going into Rasteria, its loc
 
 
 The Haxian state is an absolute monarchy controlled by the human House of Hyebeh. There is a legislative council made up of feudal lords known as the Assembly of Lordships, although it occupies a merely advisory role.
+
+## Locations in Haxian
+
+- [Carnovan's poison shop](Carnovan)
+- The Club and Badger
+- [Severin Manor](Severin Manor)
+
