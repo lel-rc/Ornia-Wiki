@@ -14,7 +14,7 @@ The country's population is mostly human, with Dwarves having a comparably large
 
 - Aidai
 - Ardenar
-- Branbridge
+- [Branbridge](Branbridge)
 - [Easternell](Easternell College of the Adventuring Arts)
 - Fortitude
 
