@@ -11,5 +11,7 @@ A **state** is any polity that sovereignty over land in as a centralized organiz
 * Pezzonic Republic
 * Quazzo-Fignolan Empire
 * [Second Chamric Empire](Second Chamric Empire)
+* Sesian-Afeshi Empire
 * [Torathic Communion](Torathic Communion)
+* [Twin Kingdom of Afesh](Twin Kingdom of Afesh]
 
