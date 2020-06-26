@@ -9,7 +9,7 @@ This is a repository of all the writings I've collected over the years of my fic
 
 ## Current campaign: *The Melody out of Darkness* and *A Hellish Education*
 
-[*The Melody Out of Darkness*](The Melody Out of Darkness) is set in [Rasteria](Rasteria), on the eastern edge of the [Azjeian continent](Azjeia), while [*A Hellish Education*](A Hellish Education) is set in the Kingdom of Afesh, north of the Sea of Oia.
+[*The Melody Out of Darkness*](The Melody Out of Darkness) is set in [Rasteria](Rasteria), on the eastern edge of the [Azjeian continent](Azjeia), while [*A Hellish Education*](A Hellish Education) is set in the [Twin Kingdom of Afesh](Twin Kingdom of Afesh), north of the Sea of Oia.
 
 ## Former campaigns
 
