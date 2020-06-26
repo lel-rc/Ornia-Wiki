@@ -1,5 +1,7 @@
 # Afesh
 
+[![](https://raw.githubusercontent.com/lel-rc/Ornia-Wiki/master/assets/resized/Afesh_RESIZED.jpg)](https://raw.githubusercontent.com/lel-rc/Ornia-Wiki/master/assets/Afesh.jpg)
+
 **Afesh** was one of the 51 traditional countries of Ornia. It was located on the southern coast of North Oia, across the Strait of Vanari from Ievania. It was separated from Sesia by the River Korev, and from Asait by the Jorai Mountains. It has been the birthplace of a few influential states, most notably the Sesian-Afeshi Empire and the [Twin Kingdom of Afesh](Twin Kingdom of Afesh).
 
 ## Geography and demographics
