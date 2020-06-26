@@ -9,7 +9,7 @@ This is a chronological timeline of historical events that occurred in Ornia, fr
 - c. 45,000 BA: The Columns of All Things are built by unknown persons in northwestern Chamros.
 - 235 AE: Twelve Torathic sects take part in the Third Council of Reiya, uniting and creating the [Torathic Communion](Torathic Communion).
 - 807 AE: Hainan II conquers the province of Erjadon, uniting [Chamros](Chamros) and founding the [Second Chamric Empire](Second Chamric Empire).
-- 822 AE: [*The Melody out of Darkness*](The Melody out of Darkness) takes place.
+- 822 AE: [*The Melody Out of Darkness*](The Melody Out of Darkness) takes place.
 - 1243 AE: The Vendron Wars between the Chamric and Karzeilan empires.
 - 1300 AE: Chamric victory ends the Vendron Wars.
 - 1347 AE: The Great Drought begins in [Ejela](Ejela Isles), displacing nearly 50,000 elves.
