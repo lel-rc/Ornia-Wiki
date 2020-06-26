@@ -2,7 +2,7 @@
 
 [![](https://raw.githubusercontent.com/lel-rc/Ornia-Wiki/master/assets/resized/secondempire_RESIZED.jpg)](https://raw.githubusercontent.com/lel-rc/Ornia-Wiki/master/assets/secondempire.png)
 
-The **Second Chamric Empire**, commonly known as [Chamros](Chamros.md) as or simply **the Empire**, was a state that existed from BA 807 to AE 2002. At its height it was the largest empire in history, stretching from its native southern Eira to as far north as and eastwards and southwards to western Kolare and Therst. For almost half a century it was considered the world's foremost superpower. By AE 1567, it held a third of the world's population of sentient races. 
+The **Second Chamric Empire**, commonly known as [Chamros](Chamros.md) as or simply **the Empire**, was a state that existed from BA 807 to AE 2002. At its height it was the largest empire in history, stretching from its native southern Eira to as far north as and eastwards and southwards to western Kolare and Therst. By AE 1567, it held a third of the world's population of sentient races. 
 
 Nominally a union of 67 duchies, the Empire was founded after the end of the Warring States period in Chamros. United under the Emperor in the capital city of [Fallhaven](Ja'ira), the Chamric Empire conquered much of the Eiran continent by AE 1060. For the first few centuries of its existence, the Empire's rule was marred by outbreaks of violence and dissent among its conquered territories, collectively known as the Marring of Eira. By AE 1223, the Empire had stabilized and began to establish colonies and trade routes along the Dividing Ocean.
 
