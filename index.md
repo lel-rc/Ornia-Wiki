@@ -7,9 +7,9 @@ This is a repository of all the writings I've collected over the years of my fic
 [![](https://raw.githubusercontent.com/lel-rc/Ornia-Wiki/master/assets/resized/Ornia%20huge_RESIZED.jpg)](https://raw.githubusercontent.com/lel-rc/Ornia-Wiki/master/assets/Ornia%20huge.png)
 <sup>*Click on the map to zoom!*</sup>
 
-## Current campaign: The Melody out of Darkness
+## Current campaign: *The Melody out of Darkness* and *A Hellish Education*
 
-[*The Melody Out of Darkness*](The Melody Out of Darkness) is set in [Rasteria](Rasteria), on the eastern edge of the [Azjeian continent](Azjeia).
+[*The Melody Out of Darkness*](The Melody Out of Darkness) is set in [Rasteria](Rasteria), on the eastern edge of the [Azjeian continent](Azjeia), while [*A Hellish Education*](A Hellish Education) is set in the Kingdom of Afesh, north of the Sea of Oia.
 
 ## Former campaigns
 
