@@ -1,6 +1,6 @@
 # Corellon
 
-**Corellon** (lit. "Eternal Light") was the patron god of all elves, artists in particular. He was considered the god of light, music, and warfare. According to the Elvish creation myth, Corellon was the eternal being who created the elves. They are described as the keeper of the beat of the Song of Creation.
+**Corellon** (lit. "Eternal Light") was the patron god of all elves, artists in particular. They were considered the god of light, music, and warfare. According to the Elvish creation myth, Corellon was the eternal being who created the elves. They are described as the keeper of the beat of the Song of Creation.
 
 
 Corellon is said to manifest themselves through various avatars in Elvish myth, such the prince Varssanian, the trickster Anara, the historian Polenne, among others. 
