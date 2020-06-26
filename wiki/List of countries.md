@@ -2,7 +2,7 @@
 
 The world of Ornia is split up into 51 traditional **countries**. In this usage the word *country* does not denote a sovereign [state](List of states), but rather a region of the world that have enough similarities to be considered a nation. Some countries may not have a state structure at all while another may fall entirely into one.
 
-- Afesh
+- [Afesh](Afesh)
 - Ameniar
 - Aneryx
 - Asait
